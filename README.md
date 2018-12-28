@@ -1,0 +1,1 @@
+This is Haiku's first Git project!
